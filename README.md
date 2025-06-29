@@ -41,15 +41,14 @@
 ### Redes
 
 <div align="left">
-  <a href="mailto:yasmim.seuemail@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-  <span style="font-size: 1.2em; vertical-align: middle;">yasmim.seuemail@gmail.com</span> <br> </div>
   <a href="https://www.linkedin.com/in/yasmim-luiz-dos-santos-770b192b6/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
    <a href="https://www.instagram.com/yasmim_luizds/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  </a>
+    <a href="mailto:yasmimluiz1989@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
 </div>
 
