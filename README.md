@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 
-Olá! Sou a Yasmim, uma estudante de ti apaixonada por aprender novas tecnologias. Atualmente, meus principais focos são **Java e desenvolvimento Back**. 
+✨ Apaixonada por tecnologia, música e gatos. Atualmente, estudante de ti e com os principais focos em **Java e desenvolvimento Back**. 
 
 ---
 
