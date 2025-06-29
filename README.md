@@ -26,8 +26,6 @@ Olá! Sou a Yasmim, uma estudante de ti apaixonada por aprender novas tecnologia
 
 ### Projetos 
 
-* **[Nome do Projeto 1]**: Uma breve descrição do projeto e o que você aprendeu com ele. [Link para o repositório](https://github.com/yasmim-luizds/nome-do-projeto-1)
-* **[Nome do Projeto 2]**: Outro projeto interessante que você queira destacar. [Link para o repositório](https://github.com/yasmim-luizds/nome-do-projeto-2)
 
 ---
 
