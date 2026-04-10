@@ -1,69 +1,78 @@
-<h2 align="left">Olá mundo, eu sou Yasmim! Seja Bem-vindo!! 👋</h2>
+<h1 align="center">Olá mundo, eu sou Yasmim! 👋</h1>
 
-### Sobre Mim
-
-✨ Apaixonada por tecnologia, música e gatos. Atualmente, estudante de ti e com os principais focos em **Java e desenvolvimento Back**. 
-
----
-
-### Linguagens
-
-<div align="left">
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-</div>
+<p align="center">
+  Estudante de TI • Foco em Java e Desenvolvimento Back-end
+</p>
 
 ---
 
-### Projetos 
+## ✨ Sobre mim
 
+- Apaixonada por tecnologia, música e gatos.
+- Estudante de TI, com foco principal em **Java** e **desenvolvimento Back-end**.
+- Sempre buscando aprender mais e construir projetos para evoluir na área.
 
 ---
 
-### Estatísticas do GitHub
+## Linguagens e Tecnologias
 
-<div align="center">
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+</p>
+
+---
+
+## Projetos
+
+Aqui você pode adicionar seus principais projetos futuramente, por exemplo:
+
+- **Sistema em Java** — projeto voltado para lógica, POO e back-end.
+- **Dashboard de dados** — análises e visualizações com foco em BI.
+- **Páginas web** — projetos usando HTML, CSS e JavaScript.
+
+---
+
+## Estatísticas do GitHub
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmim-luizds&layout=compact&langs_count=6&theme=dracula"
-    height="150"
-    alt="languages graph"
+    src="https://github-readme-stats.vercel.app/api?username=yasmim-luizds&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="165"
+    alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=yasmim-luizds&show_icons=true&theme=dracula"
-    height="150"
-    alt="stats graph"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmim-luizds&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Top languages"
   />
-</div>
+</p>
 
 ---
 
-### Redes
+## Redes
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/yasmim-luiz-dos-santos-770b192b6/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
-   <a href="https://www.instagram.com/yasmim_luizds/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  <a href="https://www.instagram.com/yasmim_luizds/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
-    <a href="mailto:yasmimluiz1989@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  <a href="mailto:yasmimluiz1989@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yasmim-luizds/yasmim-luizds/output/snake.svg" />
-
-
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yasmim-luizds/yasmim-luizds/output/snake.svg" alt="Snake animation" />
+</p>
