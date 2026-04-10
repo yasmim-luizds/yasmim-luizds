@@ -30,32 +30,6 @@
 
 ---
 
-## Projetos
-
-Aqui você pode adicionar seus principais projetos futuramente, por exemplo:
-
-- **Sistema em Java** — projeto voltado para lógica, POO e back-end.
-- **Dashboard de dados** — análises e visualizações com foco em BI.
-- **Páginas web** — projetos usando HTML, CSS e JavaScript.
-
----
-
-## Estatísticas do GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yasmim-luizds&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="165"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmim-luizds&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Top languages"
-  />
-</p>
-
----
 
 ## Redes
 
