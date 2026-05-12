@@ -1,7 +1,7 @@
 <h1 align="center">Olá mundo, eu sou Yasmim! 👋</h1>
 
 <p align="center">
-  Estudante de TI • Foco em Java e Desenvolvimento Back-end
+  Estudante de TI • Foco em Desenvolvimento Back-end
 </p>
 
 ---
