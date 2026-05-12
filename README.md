@@ -9,7 +9,7 @@
 ## ✨ Sobre mim
 
 - Apaixonada por tecnologia, música e gatos.
-- Estudante de TI, com foco principal em **Java** e **desenvolvimento Back-end**.
+- Estudante de TI, com foco principal em **desenvolvimento Back-end**.
 - Sempre buscando aprender mais e construir projetos para evoluir na área.
 
 ---
